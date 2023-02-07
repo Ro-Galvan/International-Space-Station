@@ -24,14 +24,12 @@
 
 1. [Description](#description)
 1. [Technologies](#technologies)
-1. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
 3. [Usage](#usage)
 2. [Visuals](#visuals)
 8. [Contributors](#contributors)
 9. [Roadmap](#roadmap)
-10. [Contact](#contact)
-11. [Acknowledgements](#acknowledgements)
+10. [Acknowledgements](#acknowledgements)
     
 ---
 
@@ -39,7 +37,6 @@
 Cosmic Dust is a full stack application created for space enthusiasts. The application allows space enthusiasts to view NASA’s picture of the day, access real time data regarding the International Space Station's location, and view a list of Nearest Earth Objects’(comets, asteroids, and debris). 
 
 #### Deployed Links:
-[Cosmic Dust Repository Link](https://github.com/magdalenaperry/nasa-space-things)
 
 [Cosmic Dust Link](https://magdalenaperry.github.io/nasa-space-things/)
 
@@ -55,13 +52,6 @@ Cosmic Dust is a full stack application created for space enthusiasts. The appli
 - [Bootswatch](https://bootswatch.com/)
 - [Moment.js](https://momentjs.com/)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
----
-
-## Prerequisites
-    n/a
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -110,8 +100,6 @@ Magdalena Perry:
 
 - [Linkedin](https://www.linkedin.com/in/magdalena-perry/)
 
-- [Github](https://github.com/magdalenaperry)
-
 Rocio Galvan: 
 
 - [Linkedin](https://www.linkedin.com/in/rocio-galvan/)
@@ -126,18 +114,6 @@ Rocio Galvan:
 - [x] Link Leaflet API
 - [x] Create map tracking points
 - [x] Render Pages
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
----
-## Contact
-For any additional questions, please reach out to me through email and follow me on GitHub.
-
-Name - [Magdalena Perry LinkedIn](https:www.linkedin.com/in/magdalenaperry)
-
-Github - [magdalenaperry](https://www.github.com/magdalenaperry)
-
-email - [mageltron@gmail.com](mageltron@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
